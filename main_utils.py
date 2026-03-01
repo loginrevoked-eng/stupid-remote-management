@@ -6,6 +6,7 @@ import base64
 import os
 import shutil
 import subprocess
+#lalal diff show bitch
 import argparse
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
